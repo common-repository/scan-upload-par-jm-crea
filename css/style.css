@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/* CSS Document */
+#scanner { display:none; }
+.texte_vert { 
+	color:#090;
+	width:300px;
+	height:20px;
+	padding:5px;
+	background-color:#FFF;
+	border:#090 solid 1px;
+	margin-bottom:20px;
+}
+.texte_rouge { color:#F00; }
+.wp-list-table { width:auto; z-index:20; position:absolute;  }
+
+#rate {
+	float:right;
+	width:auto;
+	height:auto;
+	background-color:#FFF;
+	border:dashed 1px #CCCCCC;
+	padding:10px;
+	text-align:center;
+	z-index:20;
+	margin-top:50px;
+	line-height:25px;
+}
